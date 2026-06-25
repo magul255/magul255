@@ -29,5 +29,6 @@ https://codebot.gulden.tv/
 
 ## 📫 Links
 
-* CodeBot: https://codebot.gulden.tv/
+### CodeBot
 * App Store: https://apps.apple.com/us/app/codebot/id6753081728
+* Websait: https://codebot.gulden.tv/
